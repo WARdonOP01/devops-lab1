@@ -1,0 +1,9 @@
+{
+  "name": "devops-lab1-app",
+  "version": "1.0.0",
+  "description": "DevOps CI/CD Lab Application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
